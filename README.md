@@ -1,4 +1,4 @@
-# -IF570-AL-Mobile-Application-ProgrammingLAB
+# IF570-AL-Mobile-Application-ProgrammingLAB
 1. Modul 1 (Kotlin Basics)
 2. Modul 2 (Functions)
 3. Modul 3 (Clases And Objects)
